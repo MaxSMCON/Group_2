@@ -40,6 +40,8 @@ Review the Papers
 
 Look at the data set uploaded on GoogleDrive - csv files for pre covid data is posted. 
 
-All group members Create Git hub account (Rick)
+All group members Create Git hub account and access the links to the papers 
+
+Ramila emailed Mr Gibbs for Link to Covid period data. 
 
 
