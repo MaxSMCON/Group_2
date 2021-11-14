@@ -45,3 +45,13 @@ All group members Create Git hub account and access the links to the papers
 Ramila emailed Mr Gibbs for Link to Covid period data. - Mr Gibbs responded apparently the data used in analysis is priopriety in nature so they can't share. Need to go else where. 
 
 
+Recap November 13th, 2021
+Revised the Topic for submission 
+
+Topic :  Food affordably in developing countries 
+Data Source  - https://www.kaggle.com/lasaljaywardena/global-food-prices-starter/data?select=global_food_prices.csv
+
+Problem Statement – Comparing Global Food Prices in developing countries versus per capita Income 
+
+
+
