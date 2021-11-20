@@ -60,3 +60,8 @@ Data Preparation: What was your data source (e.g., web scraping, corporate data,
 Analysis or model: If you are conducting an inference test, explain the analysis you performed clearly and include well-labelled diagrams to make your points. If you chose to do a predictive model, explain the model, how you trained and tested it, and how well it works. How did you confirm that the data met the requirements for the test or modelling technique to be valid?
 Conclusions: Did you prove/disprove your hypothesis or create a useful model? What did you learn about your data set?
 
+Notes:
+Local purchasing power index: Measures the relative purchasing power of a typical salary in that country, compared to New York City. A lower purchasing power buys fewer goods, while a higher purchasing power buys more.
+Groceries index: Compares typical grocery prices in the country to New York City.
+Consumer price index: Compares costs of local goods and services — including restaurants, groceries, transportation and utilities — to New York City.
+If domestic purchasing power is 40, this means that the inhabitants of that city with the average salary can afford to buy 60% less typical goods and services than New York City residents with an average salary.
