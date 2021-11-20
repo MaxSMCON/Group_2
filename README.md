@@ -65,3 +65,5 @@ Local purchasing power index: Measures the relative purchasing power of a typica
 Groceries index: Compares typical grocery prices in the country to New York City.
 Consumer price index: Compares costs of local goods and services — including restaurants, groceries, transportation and utilities — to New York City.
 If domestic purchasing power is 40, this means that the inhabitants of that city with the average salary can afford to buy 60% less typical goods and services than New York City residents with an average salary.
+**
+Compare Restaurant and groceries to determine the buying power of indiviaual and large supply chain -> accessability depending on the power of their currency**
