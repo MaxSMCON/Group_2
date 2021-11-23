@@ -72,3 +72,4 @@ Maxim  - Autocorrelation for Top 10 Countries (Potential unite the countrys into
 Population Changes
 Hypothesis  - Price is impacting the Population Growth? or GDP?
 Next Sunday to check in on progress, Starting Nov 29th 
+Rick-I'll work on to see if there is correlation between grocery index and restaurant index with the country pricing on food.
