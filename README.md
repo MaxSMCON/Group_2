@@ -60,16 +60,16 @@ Data Preparation: What was your data source (e.g., web scraping, corporate data,
 Analysis or model: If you are conducting an inference test, explain the analysis you performed clearly and include well-labelled diagrams to make your points. If you chose to do a predictive model, explain the model, how you trained and tested it, and how well it works. How did you confirm that the data met the requirements for the test or modelling technique to be valid?
 Conclusions: Did you prove/disprove your hypothesis or create a useful model? What did you learn about your data set?
 
-Recap November 21st, 2021
-Google Colab file connection work to MaxSMCON\MaxSMCON - Git Hub - working file will be posted here
-CSV files we are using are - Global Food Prices, GDP, US Dollar Conversion Table per Country, Countries vs Region, Population - Ramila 
-We decided to use current US dollar information as it will be hard to get 
-Maxim will upload the csv for Conversion file on Google Drive. 
-Pivot the table - Ramila will work on the Pivot 
-Identify most used Commodity - Top 10 Commodity Spread across the Countries - JOBBIN will do 
-Conversion table needs apply to the tables - Ramila 
-Maxim  - Autocorrelation for Top 10 Countries (Potential unite the countrys into regions)
-Population Changes
-Hypothesis  - Price is impacting the Population Growth? or GDP?
-Next Sunday to check in on progress, Starting Nov 29th 
+<br /> Recap November 21st, 2021
+<br /> Google Colab file connection work to MaxSMCON\MaxSMCON - Git Hub - working file will be posted here
+<br /> CSV files we are using are - Global Food Prices, GDP, US Dollar Conversion Table per Country, Countries vs Region, Population - Ramila 
+<br /> We decided to use current US dollar information as it will be hard to get 
+<br /> Maxim will upload the csv for Conversion file on Google Drive. 
+<br /> Pivot the table - Ramila will work on the Pivot 
+<br /> Identify most used Commodity - Top 10 Commodity Spread across the Countries - JOBBIN will do 
+<br /> Conversion table needs apply to the tables - Ramila 
+<br /> Maxim  - Autocorrelation for Top 10 Countries (Potential unite the countrys into regions)
+<br /> Population Changes
+<br /> Hypothesis  - Price is impacting the Population Growth? or GDP?
+<br /> Next Sunday to check in on progress, Starting Nov 29th 
 <br /> Rick-I'll work on to see if there is correlation between grocery index and restaurant index with the country pricing on food.<br />
