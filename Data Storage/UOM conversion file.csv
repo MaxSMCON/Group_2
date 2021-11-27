@@ -1,0 +1,389 @@
+﻿Food Product,UnitofMeasure,Conversion Multiplier,Base Unit
+Bananas - Retail,KG,1,KG
+Bananas - Retail,12 KG,0.0833,KG
+Bananas - Retail,Pound,0.4536,KG
+Bananas - Retail,Unit,7,KG
+Bananas - Wholesale,KG,1,KG
+Bananas - Wholesale,100 Pounds,0.0045,KG
+Beans - Retail,KG,1,KG
+Beans - Retail,100 KG,0.01,KG
+Beans - Retail,400 G,2.5,KG
+Beans (black) - Retail,KG,1,KG
+Beans (black) - Retail,Pound,0.4536,KG
+Beans (black) - Retail,Libra,0.4536,KG
+Beans (black) - Retail,Marmite,0.2589,KG
+Beans (black) - Wholesale,MT,0.001,KG
+Beans (black) - Wholesale,46 KG,0.0217,KG
+Beans (black) - Wholesale,45 KG,0.0222,KG
+Beans (black) - Wholesale,100 Pounds,0.0045,KG
+Beans (dry) - Wholesale,KG,1,KG
+Beans (dry) - Wholesale,90 KG,0.0111,KG
+Beans (haricot) - Retail,100 KG,0.01,KG
+Beans (haricot) - Retail,KG,1,KG
+Beans (niebe) - Wholesale,KG,1,KG
+Beans (niebe) - Wholesale,90 KG,0.0111,KG
+Beans (niebe) - Wholesale,100 KG,0.01,KG
+Beans (red) - Retail,KG,1,KG
+Beans (red) - Retail,20 KG,0.05,KG
+Beans (red) - Retail,Pound,0.4536,KG
+Beans (red) - Retail,Libra,0.4536,KG
+Beans (red) - Retail,Marmite,0.2589,KG
+Beans (red) - Wholesale,20 KG,0.05,KG
+Beans (red) - Wholesale,KG,1,KG
+Beans (red) - Wholesale,Libra,0.4536,KG
+Beans (red) - Wholesale,46 KG,0.0217,KG
+Beans (red) - Wholesale,45 KG,0.0222,KG
+Beans (red) - Wholesale,MT,0.001,KG
+Beans (silk red) - Wholesale,45 KG,0.0222,KG
+Beans (silk red) - Wholesale,46 KG,0.0217,KG
+Beans (white) - Retail,KG,1,KG
+Beans (white) - Retail,Libra,0.4536,KG
+Beans (white) - Wholesale,46 KG,0.0217,KG
+Beans (white) - Wholesale,KG,1,KG
+Bread - Retail,KG,1,KG
+Bread - Retail,Unit,,
+Bread - Retail,Pound,0.4536,KG
+Bread - Retail,400 G,2.5,KG
+Bread - Retail,150 G,6.6667,KG
+Bread - Retail,5 pcs,,
+Bread (khoboz) - Retail,Unit,,
+Bread (khoboz) - Retail,KG,1,KG
+Bread (wheat) - Retail,Unit,,
+Bread (wheat) - Retail,KG,1,KG
+Cabbage - Retail,KG,1,KG
+Cabbage - Retail,Head,0.5,KG
+Cassava - Retail,KG,1,KG
+Cassava - Retail,50 KG,0.02,KG
+Cassava - Wholesale,90 KG,0.0111,KG
+Cassava - Wholesale,KG,1,KG
+Cassava - Wholesale,91 KG,0.011,KG
+Cassava (fresh) - Retail,KG,1,KG
+Cassava (fresh) - Retail,5 KG,0.2,KG
+Cassava (fresh) - Retail,160 KG,0.0063,KG
+Cassava (fresh) - Retail,50 KG,0.02,KG
+Cassava flour - Retail,900 G,1.1111,KG
+Cassava flour - Retail,KG,1,KG
+Cheese (dry) - Retail,Unit,,
+Cheese (dry) - Retail,KG,1,KG
+Cheese (dry) - Retail,Pound,0.4536,KG
+Cheese (picon) - Retail,168 G,5.9524,KG
+Cheese (picon) - Retail,KG,1,KG
+Cheese (picon) - Retail,160 G,6.25,KG
+Chickpeas - Retail,KG,1,KG
+Chickpeas - Retail,100 KG,0.01,KG
+Chickpeas - Retail,400 G,2.5,KG
+Cocoyam (macabo) - Retail,KG,1,KG
+Cocoyam (macabo) - Retail,20 KG,0.05,KG
+Coffee - Retail,KG,1,KG
+Coffee - Retail,Pound,0.4536,KG
+Coffee - Wholesale,Libra,0.4536,KG
+Coffee - Wholesale,KG,1,KG
+Coffee (instant) - Retail,KG,1,KG
+Coffee (instant) - Retail,Unit,,
+Eggplants - Wholesale,KG,1,KG
+Eggplants - Wholesale,27 KG,0.037,KG
+Eggs - Retail,30 pcs,0.6667,KG
+Eggs - Retail,Unit,,
+Eggs - Retail,1 piece,20,KG
+Eggs - Retail,Pound,0.4536,KG
+Eggs - Retail,650 G,1.5385,KG
+Eggs - Retail,KG,1,KG
+Eggs - Retail,1.8 KG,0.5556,KG
+Eggs - Retail,2 KG,0.5,KG
+Eggs - Retail,10 pcs,2,KG
+Eggs - Wholesale,30 pcs,0.6667,KG
+Eggs - Wholesale,360 pcs,0.0556,KG
+"Fish (sardine, canned) - Retail",Unit,,
+"Fish (sardine, canned) - Retail",125 G,8,KG
+Fish (tilapia) - Wholesale,Libra,0.4536,KG
+Fish (tilapia) - Wholesale,KG,1,KG
+"Fish (tuna, canned) - Retail",170 G,5.8824,KG
+"Fish (tuna, canned) - Retail",185 G,5.4054,KG
+"Fish (tuna, canned) - Retail",200 G,5,KG
+Groundnuts - Retail,KG,1,KG
+Groundnuts - Retail,100 KG,0.01,KG
+Groundnuts (shelled) - Retail,KG,1,KG
+Groundnuts (shelled) - Retail,5 KG,0.2,KG
+Groundnuts (shelled) - Wholesale,90 KG,0.0111,KG
+Groundnuts (shelled) - Wholesale,100 KG,0.01,KG
+Kale - Retail,KG,1,KG
+Kale - Retail,Bunch,0.2551,KG
+Lentils - Retail,KG,1,KG
+Lentils - Retail,100 KG,0.01,KG
+Lentils - Wholesale,KG,1,KG
+Lentils - Wholesale,100 KG,0.01,KG
+Lettuce - Retail,KG,1,KG
+Lettuce - Retail,Head,2.649,KG
+Maize - Retail,KG,1,KG
+Maize - Retail,Libra,0.4536,KG
+Maize - Wholesale,KG,1,KG
+Maize - Wholesale,90 KG,0.0111,KG
+Maize - Wholesale,Libra,0.4536,KG
+Maize - Wholesale,46 KG,0.0217,KG
+Maize - Wholesale,100 KG,0.01,KG
+Maize (white) - Retail,KG,1,KG
+Maize (white) - Retail,15 KG,0.0667,KG
+Maize (white) - Retail,18 KG,0.0556,KG
+Maize (white) - Retail,Libra,0.4536,KG
+Maize (white) - Retail,100 KG,0.01,KG
+Maize (white) - Wholesale,100 KG,0.01,KG
+Maize (white) - Wholesale,KG,1,KG
+Maize (white) - Wholesale,MT,0.001,KG
+Maize (white) - Wholesale,45 KG,0.0222,KG
+Maize (white) - Wholesale,46 KG,0.0217,KG
+Maize (white) - Wholesale,100 Pounds,0.0045,KG
+Maize (white) - Wholesale,90 KG,0.0111,KG
+Maize (yellow) - Retail,15 KG,0.0667,KG
+Maize (yellow) - Retail,18 KG,0.0556,KG
+Maize (yellow) - Retail,KG,1,KG
+Maize (yellow) - Retail,Pound,0.4536,KG
+Maize (yellow) - Retail,100 KG,0.01,KG
+Maize (yellow) - Wholesale,KG,1,KG
+Maize (yellow) - Wholesale,46 KG,0.0217,KG
+Maize (yellow) - Wholesale,100 Pounds,0.0045,KG
+Maize (yellow) - Wholesale,100 KG,0.01,KG
+Maize flour - Retail,900 G,1.1111,KG
+Maize flour - Retail,KG,1,KG
+Maize meal - Retail,KG,1,KG
+Maize meal - Retail,12.5 KG,0.08,KG
+Maize meal (imported) - Retail,KG,1,KG
+Maize meal (imported) - Retail,Pound,0.4536,KG
+Maize meal (imported) - Retail,10 KG,0.1,KG
+"Meat (beef, canned) - Retail",Unit,4.0743,KG
+"Meat (beef, canned) - Retail",200 G,5,KG
+"Meat (beef, chops with bones) - Retail",KG,1,KG
+"Meat (beef, chops with bones) - Retail",Pound,0.4536,KG
+Meat (chicken) - Retail,KG,1,KG
+Meat (chicken) - Retail,Libra,0.4536,KG
+Meat (chicken) - Retail,Pound,0.4536,KG
+Meat (chicken) - Wholesale,KG,1,KG
+Meat (chicken) - Wholesale,10 KG,0.1,KG
+"Meat (chicken, whole) - Wholesale",46 KG,0.0217,KG
+"Meat (chicken, whole) - Wholesale",Pound,0.4536,KG
+Milk - Retail,L,0.969,KG
+Milk - Retail,KG,1,KG
+Milk (condensed) - Retail,385 G,2.5974,KG
+Milk (condensed) - Retail,200 ML,4.8356,KG
+Milk (pasteurized) - Wholesale,380 G,2.6316,KG
+Milk (pasteurized) - Wholesale,500 ML,1.9342,KG
+Milk (powder) - Retail,50 Pounds,0.0091,KG
+Milk (powder) - Retail,KG,1,KG
+Milk (powder) - Retail,400 G,2.5,KG
+Milk (powder) - Retail,Unit,,
+Milk (powder) - Retail,Pound,0.4536,KG
+Milk (powder) - Retail,0.8 KG,1.25,KG
+Milk (powder) - Retail,900 G,1.1111,KG
+Milk (UHT) - Retail,500 ML,1.9342,KG
+Milk (UHT) - Retail,200 ML,4.8356,KG
+Millet - Wholesale,KG,1,KG
+Millet - Wholesale,100 KG,0.01,KG
+Millet - Wholesale,93 KG,0.0108,KG
+Noodles (short) - Retail,KG,1,KG
+Noodles (short) - Retail,Pound,0.4536,KG
+Noodles (short) - Retail,Cuartilla,,
+Oil (groundnut) - Retail,KG,1,KG
+Oil (groundnut) - Retail,L,0.4,KG
+Oil (olive) - Retail,KG,1,KG
+Oil (olive) - Retail,L,0.92,KG
+Oil (palm) - Retail,L,0.89,KG
+Oil (palm) - Retail,KG,1,KG
+Oil (palm) - Retail,20 L,0.0445,KG
+Oil (palm) - Retail,1.5 L,0.5933,KG
+Oil (palm) - Retail,Gallon,0.2431,KG
+Oil (soybean) - Retail,L,0.917,KG
+Oil (soybean) - Retail,KG,1,KG
+Oil (sunflower) - Retail,KG,1,KG
+Oil (sunflower) - Retail,L,0.9188,KG
+Oil (sunflower) - Retail,5 L,0.1838,KG
+Oil (sunflower) - Retail,750 ML,1.2251,KG
+Oil (sunflower) - Wholesale,L,0.9188,KG
+Oil (sunflower) - Wholesale,KG,1,KG
+Oil (vegetable) - Retail,L,0.92,KG
+Oil (vegetable) - Retail,KG,1,KG
+Oil (vegetable) - Retail,5 L,0.184,KG
+Oil (vegetable) - Retail,750 ML,1.2267,KG
+Oil (vegetable) - Retail,1.8 L,0.5111,KG
+Oil (vegetable) - Wholesale,5 L,0.184,KG
+Oil (vegetable) - Wholesale,L,0.92,KG
+"Oil (vegetable, imported) - Retail",L,1,KG
+"Oil (vegetable, imported) - Retail",Gallon,0.243,KG
+Onions - Retail,KG,1,KG
+Onions - Retail,Pound,0.4536,KG
+Onions - Wholesale,90 KG,0.0111,KG
+Onions - Wholesale,100 KG,0.01,KG
+Onions - Wholesale,73 KG,0.0137,KG
+Onions (white) - Wholesale,KG,1,KG
+Onions (white) - Wholesale,50 pcs,0.1818,KG
+Pasta - Retail,500 G,2,KG
+Pasta - Retail,KG,1,KG
+Pasta - Retail,Pound,0.4536,KG
+Pasta - Retail,350 G,2.8571,KG
+Pasta - Retail,300 G,3.3333,KG
+Pasta (spaghetti) - Retail,Packet,,
+Pasta (spaghetti) - Retail,KG,1,KG
+Pasta (spaghetti) - Retail,Unit,,
+Peas - Retail,100 KG,0.01,KG
+Peas - Retail,KG,1,KG
+"Peas (split, dry) - Retail",KG,1,KG
+"Peas (split, dry) - Retail",100 KG,0.01,KG
+"Peas (split, dry) - Retail",500 G,2,KG
+Peppers (fresh) - Retail,KG,1,KG
+Peppers (fresh) - Retail,2.25 KG,0.4444,KG
+Peppers (fresh) - Wholesale,KG,1,KG
+Peppers (fresh) - Wholesale,20 KG,0.05,KG
+Plantains - Retail,KG,1,KG
+Plantains - Retail,12 KG,0.0833,KG
+Plantains - Retail,Pound,0.4536,KG
+Plantains - Wholesale,KG,1,KG
+Plantains - Wholesale,100 pcs,,
+Potatoes - Retail,KG,1,KG
+Potatoes - Retail,Pound,0.4536,KG
+Potatoes - Wholesale,KG,1,KG
+Potatoes - Wholesale,100 Pounds,0.0045,KG
+Potatoes (Dutch) - Retail,11.5 KG,0.087,KG
+Potatoes (Dutch) - Retail,Cuartilla,,
+Potatoes (Dutch) - Retail,Pound,0.4536,KG
+"Potatoes (Irish, imilla) - Retail",KG,1,KG
+"Potatoes (Irish, imilla) - Retail",11.5 KG,0.087,KG
+"Potatoes (Irish, imilla) - Retail",Cuartilla,,
+"Potatoes (Irish, imilla) - Retail",Libra,0.4536,KG
+"Potatoes (Irish, imilla) - Retail",Pound,0.4536,KG
+Rice - Retail,KG,1,KG
+Rice - Retail,Libra,0.4536,KG
+Rice - Retail,5 KG,0.2,KG
+Rice - Retail,500 G,2,KG
+Rice - Wholesale,100 KG,0.01,KG
+Rice - Wholesale,KG,1,KG
+Rice - Wholesale,50 KG,0.02,KG
+Rice - Wholesale,Libra,0.4536,KG
+Rice - Wholesale,45 KG,0.0222,KG
+Rice - Wholesale,46 KG,0.0217,KG
+Rice (carolina 2da) - Retail,KG,1,KG
+Rice (carolina 2da) - Retail,Cuartilla,,
+Rice (carolina 2da) - Retail,Pound,0.4536,KG
+Rice (estaquilla) - Retail,KG,1,KG
+Rice (estaquilla) - Retail,Cuartilla,,
+Rice (estaquilla) - Retail,Pound,0.4536,KG
+Rice (good quality) - Retail,Cuartilla,,
+Rice (good quality) - Retail,KG,1,KG
+Rice (good quality) - Retail,Pound,0.4536,KG
+Rice (high quality) - Wholesale,KG,1,KG
+Rice (high quality) - Wholesale,Libra,0.4536,KG
+Rice (imported) - Retail,KG,1,KG
+Rice (imported) - Retail,Marmite,0.2589,KG
+Rice (imported) - Retail,Pound,0.4536,KG
+Rice (imported) - Retail,50 KG,0.02,KG
+Rice (imported) - Wholesale,KG,1,KG
+Rice (imported) - Wholesale,100 KG,0.01,KG
+Rice (imported) - Wholesale,50 KG,0.02,KG
+Rice (local) - Retail,KG,1,KG
+Rice (local) - Retail,50 KG,0.02,KG
+Rice (local) - Retail,Marmite,0.2589,KG
+Rice (local) - Retail,Pound,0.4536,KG
+Rice (local) - Wholesale,90 KG,0.0111,KG
+Rice (local) - Wholesale,120 KG,0.0083,KG
+Rice (local) - Wholesale,50 KG,0.02,KG
+Rice (local) - Wholesale,100 KG,0.01,KG
+"Rice (long grain, imported) - Retail",KG,1,KG
+"Rice (long grain, imported) - Retail",50 KG,0.02,KG
+"Rice (ordinary, first quality) - Retail",Libra,0.4536,KG
+"Rice (ordinary, first quality) - Retail",KG,1,KG
+"Rice (ordinary, first quality) - Wholesale",46 KG,0.0217,KG
+"Rice (ordinary, first quality) - Wholesale",KG,1,KG
+"Rice (ordinary, first quality) - Wholesale",45 KG,0.0222,KG
+"Rice (ordinary, first quality) - Wholesale",100 Pounds,0.0045,KG
+"Rice (ordinary, second quality) - Retail",Libra,0.4536,KG
+"Rice (ordinary, second quality) - Retail",Pound,0.4536,KG
+"Rice (ordinary, second quality) - Retail",KG,1,KG
+"Rice (ordinary, second quality) - Wholesale",46 KG,0.0217,KG
+"Rice (ordinary, second quality) - Wholesale",KG,1,KG
+"Rice (ordinary, second quality) - Wholesale",45 KG,0.0222,KG
+"Rice (ordinary, second quality) - Wholesale",100 Pounds,0.0045,KG
+Rice (paddy) - Wholesale,MT,0.001,KG
+Rice (paddy) - Wholesale,84 KG,0.0119,KG
+"Rice (small grain, imported) - Retail",KG,1,KG
+"Rice (small grain, imported) - Retail",50 KG,0.02,KG
+Rice (white) - Wholesale,MT,0.001,KG
+Rice (white) - Wholesale,KG,1,KG
+"Rice (white, imported) - Retail",KG,1,KG
+"Rice (white, imported) - Retail",50 KG,0.02,KG
+Salt - Retail,KG,1,KG
+Salt - Retail,115 G,8.6957,KG
+Salt - Retail,200 G,5,KG
+Salt (iodised) - Retail,KG,1,KG
+Salt (iodised) - Retail,750 G,1.3333,KG
+Sesame - Retail,KG,1,KG
+Sesame - Retail,100 KG,0.01,KG
+Sesame - Wholesale,90 KG,0.0111,KG
+Sesame - Wholesale,100 KG,0.01,KG
+Sorghum - Retail,KG,1,KG
+Sorghum - Retail,Libra,0.4536,KG
+Sorghum - Retail,100 KG,0.01,KG
+Sorghum - Retail,Marmite,0.2589,KG
+Sorghum - Retail,Pound,0.4536,KG
+Sorghum - Wholesale,KG,1,KG
+Sorghum - Wholesale,46 KG,0.0217,KG
+Sorghum - Wholesale,100 KG,0.01,KG
+Sorghum - Wholesale,109 KG,0.0092,KG
+Sorghum - Wholesale,90 KG,0.0111,KG
+Sorghum (red) - Retail,KG,1,KG
+Sorghum (red) - Retail,100 KG,0.01,KG
+Sorghum (red) - Wholesale,90 KG,0.0111,KG
+Sorghum (red) - Wholesale,100 KG,0.01,KG
+Sorghum (white) - Retail,KG,1,KG
+Sorghum (white) - Retail,100 KG,0.01,KG
+Sorghum (white) - Wholesale,90 KG,0.0111,KG
+Sorghum (white) - Wholesale,100 KG,0.01,KG
+Sorghum (white) - Wholesale,MT,0.001,KG
+Soybeans - Wholesale,KG,1,KG
+Soybeans - Wholesale,90 KG,0.0111,KG
+Soybeans - Wholesale,109 KG,0.0092,KG
+Sugar - Retail,KG,1,KG
+Sugar - Retail,Libra,0.4536,KG
+Sugar - Retail,Pound,0.4536,KG
+Sugar - Wholesale,100 KG,0.01,KG
+Sugar - Wholesale,KG,1,KG
+Sugar (white) - Retail,900 G,1.1111,KG
+Sugar (white) - Retail,KG,1,KG
+Sugar (white) - Retail,Marmite,0.2589,KG
+Tea - Retail,KG,1,KG
+Tea - Retail,Unit,,
+Tea (black) - Retail,KG,1,KG
+Tea (black) - Retail,250 G,4,KG
+Tea (green) - Retail,Unit,,
+Tea (green) - Retail,KG,1,KG
+Tea (green) - Retail,250 G,4,KG
+Tomatoes - Retail,KG,1,KG
+Tomatoes - Retail,Pound,0.4536,KG
+Tomatoes - Wholesale,KG,1,KG
+Tomatoes - Wholesale,50 Pounds,0.0091,KG
+Tomatoes (local) - Wholesale,KG,1,KG
+Tomatoes (local) - Wholesale,52 KG,0.0192,KG
+Tomatoes (paste) - Retail,KG,1,KG
+Tomatoes (paste) - Retail,70 G,14.2857,KG
+Tomatoes (paste) - Retail,1.3 KG,0.7692,KG
+Tomatoes (paste) - Retail,400 G,2.5,KG
+Wheat - Retail,KG,1,KG
+Wheat - Retail,100 KG,0.01,KG
+Wheat - Wholesale,KG,1,KG
+Wheat - Wholesale,100 KG,0.01,KG
+Wheat (food aid) - Retail,KG,1,KG
+Wheat (food aid) - Retail,100 KG,0.01,KG
+Wheat (white) - Retail,KG,1,KG
+Wheat (white) - Retail,100 KG,0.01,KG
+Wheat flour - Retail,KG,1,KG
+Wheat flour - Retail,100 KG,0.01,KG
+Wheat flour - Retail,50 KG,0.02,KG
+Wheat flour - Retail,1.5 KG,0.6667,KG
+Wheat flour - Retail,12.5 KG,0.08,KG
+Wheat flour - Wholesale,KG,1,KG
+Wheat flour - Wholesale,100 KG,0.01,KG
+Wheat flour - Wholesale,50 KG,0.02,KG
+Wheat flour - Wholesale,50 Pounds,0.0441,KG
+Wheat flour (imported) - Retail,KG,1,KG
+Wheat flour (imported) - Retail,Marmite,0.2589,KG
+Wheat flour (local) - Wholesale,46 KG,0.0217,KG
+Wheat flour (local) - Wholesale,KG,1,KG
+Yam - Wholesale,KG,1,KG
+Yam - Wholesale,250 KG,0.004,KG
+Yam - Wholesale,100 Tubers,,
