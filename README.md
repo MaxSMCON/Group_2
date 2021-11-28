@@ -2,6 +2,10 @@
 **Link to the word file:**
 https://docs.google.com/document/d/1ZLZ6ws6klPgyqzh8Y8Rssr5-K14bnzWr/edit?usp=sharing&ouid=114040820433640102297&rtpof=true&sd=true 
 
+Resources:
+
+https://ourworldindata.org/ - collection of various stats
+
 Group2 google account = dsstatistics51@gmail.com (password has been sent via Whatsapp)
 Google Drive  :  https://drive.google.com/drive/my-drive
 Google Collab : https://colab.research.google.com/?utm_source=scs-index
