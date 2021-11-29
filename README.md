@@ -2,6 +2,9 @@
 **Link to the word file:**
 https://docs.google.com/document/d/1ZLZ6ws6klPgyqzh8Y8Rssr5-K14bnzWr/edit?usp=sharing&ouid=114040820433640102297&rtpof=true&sd=true 
 
+Link to the google docs file:
+https://docs.google.com/document/d/15aaf18wjSdXydyseorGM6Q72bnuhXwS-8sama1t3Jlw/edit?usp=sharing 
+
 Resources:
 
 https://ourworldindata.org/ - collection of various stats
