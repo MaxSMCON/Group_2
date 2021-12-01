@@ -90,4 +90,6 @@ Ramila to inform Rick EOD Wed on compeltetion so he can add UOM conversion to th
 Upon Conversion, Ramila to pivot the final table
 Avery - to update documentation with the Problem statement in the introduction 
 Jobbin  - Identify Top 10 commodity based on data availablity 
+ALL  - Please provide references you are using for analysis to include in documentation. 
 Next Touch Point Friday 9pm on December 3rd, 2021. 
+
