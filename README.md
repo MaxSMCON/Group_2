@@ -82,3 +82,12 @@ Conclusions: Did you prove/disprove your hypothesis or create a useful model? Wh
 <br /> Hypothesis  - Price is impacting the Population Growth? or GDP?
 <br /> Next Sunday to check in on progress, Starting Nov 29th 
 <br /> Rick-I'll work on to see if there is correlation between grocery index and restaurant index with the country pricing on food.<br />
+
+
+Recap November 30th, 2021
+Ramila  - Add James code to consolidate table in Group2_Stats.pynb file. 
+Ramila to inform Rick EOD Wed on compeltetion so he can add UOM conversion to the file 
+Upon Conversion, Ramila to pivot the final table
+Avery - to update documentation with the Problem statement in the introduction 
+Jobbin  - Identify Top 10 commodity based on data availablity 
+Next Touch Point Friday 9pm on December 3rd, 2021. 
