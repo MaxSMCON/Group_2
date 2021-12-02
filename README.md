@@ -13,7 +13,7 @@ https://ourworldindata.org/ - collection of various stats
 
 Group2 google account = dsstatistics51@gmail.com (password has been sent via Whatsapp)
 Google Drive  :  https://drive.google.com/drive/my-drive
-Google Collab : https://colab.research.google.com/?utm_source=scs-index
+Google Collab : https://colab.research.google.com/drive/10UCTQbcOpNhWeYpDGSTx_p3rOEqDO4uv?usp=sharing
 
 **Discussion October 24th, 2021**
 
