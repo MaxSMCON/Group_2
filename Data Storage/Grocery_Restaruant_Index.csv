@@ -1,0 +1,1034 @@
+﻿YEAR,Country,Groceries Index,Restaurant Price Index
+2020,Switzerland,120.27,123.01
+2020,South Korea,91.31,44.87
+2020,Norway,91.14,109.28
+2020,Iceland,86.89,113.74
+2020,Japan,81.82,48.95
+2020,Hong Kong,75.94,54.36
+2020,Taiwan,71.51,28.49
+2020,Luxembourg,69.1,89.85
+2020,France,67.9,72.54
+2020,Australia,67.23,70.32
+2020,Singapore,66.75,58.99
+2020,United States,66.61,70.74
+2020,Israel,66.31,88.65
+2020,Puerto Rico,65.76,58.68
+2020,Barbados,65.2,68.14
+2020,New Zealand,64.69,68.8
+2020,Seychelles,64.61,84.86
+2020,Canada,63.68,63.53
+2020,Bahamas,62.65,83.66
+2020,Macao,62,43.37
+2020,Denmark,61.74,100.75
+2020,Austria,61.73,68.09
+2020,Sweden,60.47,72.35
+2020,Jamaica,58.96,38.12
+2020,Belgium,58.66,80.14
+2020,Ireland,58.35,81.24
+2020,Finland,56.52,76.81
+2020,Netherlands,55.87,80.48
+2020,Italy,55.44,72.32
+2020,Malta,54.9,75.94
+2020,Qatar,53.61,66.83
+2020,Panama,53.03,47.27
+2020,Fiji,52.67,35.87
+2020,United Kingdom,51.27,74.13
+2020,Zimbabwe,50.8,40.79
+2020,Costa Rica,49.6,43.51
+2020,Trinidad And Tobago,49.43,49.83
+2020,Germany,49.23,61.58
+2020,Thailand,49.2,24.9
+2020,Mauritius,48.94,43.96
+2020,Bahrain,48.11,54.55
+2020,United Arab Emirates,47.63,61.32
+2020,Palestine,46.67,38.93
+2020,Somalia,45.88,27.04
+2020,Suriname,45.78,34.98
+2020,Myanmar,44.68,19.04
+2020,Cambodia,44.56,25.19
+2020,Cyprus,44.21,63.11
+2020,Lebanon,43.92,58.16
+2020,Slovenia,43.76,45.43
+2020,El Salvador,43.67,34.8
+2020,Oman,43.5,44.26
+2020,Jordan,43.32,47.12
+2020,Spain,42.38,52.07
+2020,Belize,41.89,37.05
+2020,Nicaragua,41.71,31.41
+2020,Greece,41.63,53.74
+2020,China,40.37,29.16
+2020,Uruguay,40.12,47.41
+2020,Croatia,39.9,42.44
+2020,Portugal,38.14,42.48
+2020,Czech Republic,38.13,34.1
+2020,Saudi Arabia,37.89,33.51
+2020,Malaysia,37.58,22.94
+2020,Slovakia,37.51,33.82
+2020,Guatemala,37.41,33
+2020,Cuba,37.4,30.95
+2020,Indonesia,37.36,18.25
+2020,Ghana,37.17,26.59
+2020,Brunei,37.11,38.06
+2020,Vietnam,37.06,19.59
+2020,Namibia,36.8,39.22
+2020,Estonia,36.57,52.94
+2020,Chile,36.45,41.57
+2020,Ethiopia,36.3,19.37
+2020,Dominican Republic,35.93,38.27
+2020,Iran,35.54,25.12
+2020,Ecuador,35.46,30.66
+2020,Kenya,35.35,35.06
+2020,Sri Lanka,35.09,18.76
+2020,Latvia,34.85,42.88
+2020,Kuwait,34.68,47.08
+2020,Peru,33.8,24.69
+2020,Lithuania,33.63,42.7
+2020,Philippines,33.46,20.84
+2020,Honduras,33.33,30.55
+2020,South Africa,33.29,40.58
+2020,Mexico,32.39,32.12
+2020,Iraq,31.85,32.72
+2020,Botswana,31.74,39.98
+2020,Nigeria,31.15,17.71
+2020,Russia,31.08,39.61
+2020,Hungary,30.77,34.46
+2020,Algeria,30.71,15.89
+2020,Poland,30.55,33.45
+2020,Morocco,30.11,24.5
+2020,Bulgaria,30.09,29.14
+2020,Turkey,29.76,24.16
+2020,Bangladesh,29.72,19.21
+2020,Tanzania,29.66,22.57
+2020,Brazil,29.2,30.78
+2020,Romania,29.03,30.5
+2020,Montenegro,28.63,33.16
+2020,Albania,28.39,26.75
+2020,Venezuela,28.29,24.41
+2020,Bolivia,28.09,25.11
+2020,Bosnia And Herzegovina,28.08,25.1
+2020,Belarus,28.06,38.94
+2020,Zambia,26.86,22.07
+2020,Rwanda,26.83,29.17
+2020,Kosovo (Disputed Territory),26.53,21.04
+2020,Ukraine,26.01,26.42
+2020,Moldova,25.96,27.79
+2020,Argentina,25.82,30.52
+2020,Armenia,25.61,30.43
+2020,Egypt,25.5,23.53
+2020,Serbia,25.46,28.63
+2020,Uganda,25.25,22.14
+2020,Tunisia,25.25,14.95
+2020,Colombia,25.05,22.44
+2020,Paraguay,25.03,25.01
+2020,North Macedonia,24.94,23.31
+2020,Nepal,24.91,20.36
+2020,India,24.55,17.17
+2020,Kazakhstan,24.31,29.87
+2020,Azerbaijan,23.74,30.36
+2020,Kyrgyzstan,23.39,21.45
+2020,Georgia,23.05,26.66
+2020,Syria,22.42,21.38
+2020,Uzbekistan,21.59,20.17
+2020,Pakistan,19.08,16.78
+2020,Afghanistan,17.7,17.38
+2019,Switzerland,120.81,123.09
+2019,Iceland,92.1,111.85
+2019,Norway,92.67,111.53
+2019,Bahamas,76.97,99.92
+2019,Luxembourg,75.1,96.08
+2019,Denmark,63.62,95.14
+2019,Netherlands,58.8,83.49
+2019,Belgium,60.86,83.4
+2019,Ireland,59.1,82.65
+2019,Israel,61.92,80.83
+2019,Finland,60.02,77.91
+2019,Italy,58.34,75.72
+2019,France,68.31,75.37
+2019,Sweden,63.45,75.04
+2019,United Kingdom,51.85,72.37
+2019,Australia,66.9,70.69
+2019,Austria,65.63,70.08
+2019,United States,67.44,69.33
+2019,New Zealand,65.71,68.78
+2019,Malta,51.23,67.28
+2019,Germany,54.27,63.56
+2019,Qatar,47.72,61.95
+2019,Canada,62.37,61.81
+2019,Cyprus,44.32,59.76
+2019,Lebanon,43.28,56.79
+2019,Uruguay,45.11,56.28
+2019,Hong Kong,80.3,56.08
+2019,Puerto Rico,61.66,54.82
+2019,Greece,43.69,54.76
+2019,Spain,44.02,54.13
+2019,United Arab Emirates,43.16,53.88
+2019,Jordan,44.43,52.28
+2019,Bahrain,51.16,52.21
+2019,Estonia,37.06,51.24
+2019,Japan,83.58,48.75
+2019,Kuwait,39.88,47.35
+2019,Panama,48.21,47.06
+2019,Singapore,57.48,46.75
+2019,Trinidad And Tobago,50,46
+2019,Latvia,36.65,45.47
+2019,Chile,40.55,45.15
+2019,South Korea,89.7,44.84
+2019,Oman,40.02,44.41
+2019,Lithuania,35.36,43.95
+2019,Slovenia,43.27,43.83
+2019,Portugal,40.2,43.13
+2019,Costa Rica,47.91,42.58
+2019,Dominican Republic,35.68,42.43
+2019,Jamaica,58.84,42.26
+2019,South Africa,33.88,40.79
+2019,Croatia,40.33,40.36
+2019,Mauritius,47.89,39.14
+2019,Namibia,39.92,38.59
+2019,Palestine,43.9,37.33
+2019,Russia,29.18,37
+2019,Zimbabwe,45.74,36.81
+2019,Belize,42.86,36.66
+2019,Fiji,57.63,36.46
+2019,Belarus,27.77,35.98
+2019,El Salvador,45.57,35.55
+2019,Brazil,31.3,34.85
+2019,Montenegro,30.75,34.25
+2019,Slovakia,38.5,33.64
+2019,Hungary,32.36,33.43
+2019,Czech Republic,38.08,33.25
+2019,Poland,30.66,32.72
+2019,Armenia,25.77,32.53
+2019,Argentina,26.25,32.5
+2019,Guatemala,38.02,32.28
+2019,Romania,29.88,32.26
+2019,Iraq,34.1,31.85
+2019,Ghana,44.76,31.74
+2019,Honduras,33.57,31.52
+2019,Kenya,33.23,31.22
+2019,Nicaragua,46.36,31.14
+2019,Saudi Arabia,39.06,30.93
+2019,Azerbaijan,24.08,30.67
+2019,Mexico,30.3,30.23
+2019,Bulgaria,31.15,29.86
+2019,Kazakhstan,23.75,29.83
+2019,Ecuador,37.87,29.43
+2019,Albania,28.59,29.34
+2019,Cuba,34.3,28.29
+2019,China,39.93,28.18
+2019,Bolivia,26.9,27.96
+2019,Serbia,26.3,27.84
+2019,Moldova,24.97,27.71
+2019,Georgia,23.39,27.09
+2019,Taiwan,69.61,26.88
+2019,Iran,32.63,26.88
+2019,Paraguay,26.03,25.75
+2019,Tanzania,28.59,25.15
+2019,Thailand,50,24.63
+2019,Cambodia,44.15,24.44
+2019,Morocco,29.85,23.85
+2019,Bosnia And Herzegovina,28.81,23.78
+2019,Peru,32.69,23.68
+2019,North Macedonia,24.85,23.67
+2019,Turkey,30.45,23.65
+2019,Malaysia,39.7,22.75
+2019,Colombia,24.33,22.46
+2019,Egypt,23.19,22.26
+2019,Ukraine,22.47,22.14
+2019,Venezuela,27.58,21.98
+2019,Uganda,26.09,21.9
+2019,Uzbekistan,23.9,21.14
+2019,Myanmar,54.76,20.24
+2019,Nepal,25.4,19.74
+2019,Philippines,32.61,19.67
+2019,Kosovo (Disputed Territory),23.21,19.57
+2019,Nigeria,31.76,19.2
+2019,Bangladesh,29.52,18.97
+2019,Vietnam,37.87,18.89
+2019,Indonesia,38.14,18.02
+2019,Sri Lanka,33.57,17.36
+2019,India,24.2,17.15
+2019,Algeria,32,16.38
+2019,Pakistan,18.25,15.42
+2019,Tunisia,22.27,13.33
+2018,Bermuda,143.42,151.59
+2018,Switzerland,133.34,131.86
+2018,Iceland,118.95,132.59
+2018,Norway,106.52,125.04
+2018,South Korea,99.67,48.98
+2018,Japan,91.58,49.16
+2018,Bahamas,88.38,102.08
+2018,Luxembourg,84.98,107.94
+2018,Singapore,83.64,64.4
+2018,Hong Kong,83.47,56.17
+2018,Australia,80.66,81.57
+2018,Taiwan,79.24,28.86
+2018,France,78.06,81.87
+2018,New Zealand,76.98,79.05
+2018,Austria,76.77,75.85
+2018,Sweden,76.1,86.67
+2018,United States,73.93,69.95
+2018,Belgium,72.79,93.25
+2018,Denmark,72.46,113.39
+2018,Israel,72.44,94.89
+2018,Canada,71.44,68.7
+2018,Ireland,69.51,93.16
+2018,Finland,68.78,86.89
+2018,Italy,68.05,84.74
+2018,Puerto Rico,66.25,55.72
+2018,Netherlands,65.83,92.73
+2018,United Kingdom,60.96,83.87
+2018,Jamaica,60.25,39.67
+2018,Malta,59.82,75.14
+2018,Germany,58.87,71.21
+2018,Bahrain,57.99,54.16
+2018,Qatar,57.5,64.8
+2018,United Arab Emirates,55.59,63.33
+2018,Costa Rica,55.56,45.89
+2018,Thailand,54.9,23.94
+2018,Ghana,54.89,37.39
+2018,Uruguay,54.51,69.18
+2018,Palestine,54.43,41.78
+2018,Trinidad And Tobago,53.37,50.33
+2018,Panama,53.04,44.3
+2018,Spain,51.28,60.56
+2018,Greece,50.87,61.7
+2018,Slovenia,50.78,48.93
+2018,Cyprus,49.67,65.36
+2018,Mauritius,49.51,39.37
+2018,Cambodia,49.33,23.07
+2018,Malaysia,48.21,23.22
+2018,Chile,47.8,51.4
+2018,China,47.73,29.59
+2018,El Salvador,46.79,36.16
+2018,Oman,46.71,46.17
+2018,Jordan,46.54,52.66
+2018,Croatia,46.33,43.42
+2018,Lebanon,46.15,58.7
+2018,Portugal,45.47,46.83
+2018,Argentina,44.64,53.69
+2018,Guatemala,44.62,36.81
+2018,Zimbabwe,44.3,37.66
+2018,Kuwait,43.97,48.48
+2018,Estonia,43.8,56.8
+2018,Slovakia,43.66,37.34
+2018,Czech Republic,43.62,36.03
+2018,Indonesia,43.52,19.5
+2018,Ecuador,42.85,30.82
+2018,Latvia,42.47,48.05
+2018,Saudi Arabia,42.04,32.03
+2018,Dominican Republic,41.87,43.65
+2018,Lithuania,41.74,48.86
+2018,South Africa,40.66,45.74
+2018,Zambia,40.41,33.5
+2018,Brazil,39.69,41.21
+2018,Ethiopia,39.15,20.21
+2018,Vietnam,39.09,19.96
+2018,Hungary,38.61,37.38
+2018,Sri Lanka,38.38,19.69
+2018,Iraq,37.67,38.4
+2018,Honduras,36.58,32.99
+2018,Kenya,36.57,31.61
+2018,Turkey,36.17,31.23
+2018,Russia,35.9,45.91
+2018,Peru,35.87,26.29
+2018,Poland,35.85,37.7
+2018,Nigeria,35.8,22.06
+2018,Montenegro,35.75,38.08
+2018,Bulgaria,35.2,33.61
+2018,Tanzania,34.48,29.36
+2018,Philippines,34.3,20.94
+2018,Venezuela,33.83,26.7
+2018,Algeria,33.8,17.6
+2018,Bosnia And Herzegovina,33.76,26.68
+2018,Morocco,33.26,25.76
+2018,Romania,32.83,33.28
+2018,Mexico,32.18,29.48
+2018,Iran,31,27.27
+2018,Albania,30.87,29.08
+2018,Bangladesh,30.25,21.2
+2018,Nepal,30.18,19.03
+2018,Serbia,29.95,31.45
+2018,Colombia,29.52,26.68
+2018,Bolivia,28.84,28.52
+2018,North Macedonia,28.73,23.64
+2018,Uganda,28.32,23.17
+2018,Kazakhstan,28.06,35.41
+2018,Belarus,27.91,35.76
+2018,Armenia,27.75,31.21
+2018,India,27.46,18.34
+2018,Azerbaijan,27.43,30.59
+2018,Moldova,26.64,23.52
+2018,Tunisia,26.41,17.05
+2018,Kosovo (Disputed Territory),26.29,20.97
+2018,Syria,26.23,22.16
+2018,Georgia,24.59,29.15
+2018,Pakistan,23.81,19.02
+2018,Egypt,23.01,21.02
+2018,Ukraine,20.38,18.62
+2017,Bermuda,139.55,151.39
+2017,Switzerland,122.72,119.85
+2017,Iceland,103.88,119.74
+2017,Bahamas,103.52,89.95
+2017,Norway,98.31,117.13
+2017,Japan,89.92,47.83
+2017,South Korea,88.52,44.62
+2017,Hong Kong,81.88,54.87
+2017,Kuwait,81.39,45.79
+2017,Australia,76.87,77.12
+2017,United States,75.57,70.02
+2017,Us Virgin Islands,75.41,81.12
+2017,Italy,73.94,76.24
+2017,New Zealand,73.13,77.46
+2017,Taiwan,72.89,28.14
+2017,Singapore,71.68,58.33
+2017,France,69.54,72.89
+2017,Canada,69.26,65.65
+2017,Sweden,67.94,78.27
+2017,Puerto Rico,66.84,63.26
+2017,Luxembourg,65.94,87.3
+2017,Austria,65.86,66.94
+2017,Belgium,65.77,82.34
+2017,Israel,65.39,81.35
+2017,Denmark,63.84,101.01
+2017,Ireland,62.21,81.38
+2017,Finland,61.47,76.43
+2017,Costa Rica,57.55,45.38
+2017,Panama,57.44,47.42
+2017,Fiji,57.09,36.84
+2017,Uruguay,56.82,67.62
+2017,Ghana,56.35,43.38
+2017,Macao,56.33,48.56
+2017,Qatar,56.09,72.73
+2017,Jamaica,55.96,39.04
+2017,Netherlands,55.95,82.27
+2017,United Kingdom,55.85,76.84
+2017,Bahrain,55.45,49.24
+2017,United Arab Emirates,55.36,63.92
+2017,Mongolia,53.99,31.81
+2017,Trinidad And Tobago,53.54,51.94
+2017,Malta,52.83,66.89
+2017,Cambodia,50.58,22.11
+2017,Jordan,50.19,56.19
+2017,Germany,50.09,62.62
+2017,Palestine,50.02,37.8
+2017,Belize,49.35,33.41
+2017,Oman,49.34,51.26
+2017,Thailand,48.31,21.42
+2017,China,47.74,29.68
+2017,Libya,47.01,35.69
+2017,Lebanon,46.92,60.23
+2017,Dominican Republic,46.92,42.31
+2017,Indonesia,45.8,20.29
+2017,Greece,44.95,54.62
+2017,Ecuador,44.87,30.41
+2017,Zimbabwe,44.75,39.95
+2017,Spain,44.68,53.68
+2017,Cyprus,44.06,58.05
+2017,Argentina,44.06,50.37
+2017,Guatemala,43.88,32.63
+2017,Slovenia,43.48,43.13
+2017,Mauritius,43.28,35.81
+2017,Chile,43.19,44.38
+2017,Malaysia,42.44,20.87
+2017,Brazil,41.65,42.33
+2017,El Salvador,41.17,35.15
+2017,Namibia,40.86,43.21
+2017,Saudi Arabia,40.54,30.22
+2017,Croatia,39.91,37.53
+2017,Vietnam,39.6,20.46
+2017,Venezuela,39.4,37.34
+2017,Honduras,39.37,36.27
+2017,Iraq,39.2,44.43
+2017,Portugal,39.14,41.24
+2017,Slovakia,38.84,33.17
+2017,Kenya,37.65,29.98
+2017,Tanzania,37.55,33.48
+2017,Nigeria,37.02,22.37
+2017,Ethiopia,36.9,23.9
+2017,Sri Lanka,36.79,19.51
+2017,Estonia,36.74,46.76
+2017,Latvia,36.72,41.16
+2017,South Africa,36.27,40.2
+2017,Peru,36.17,25.5
+2017,Lithuania,36.15,40.08
+2017,Czech Republic,35.84,27.99
+2017,Philippines,33.95,19.86
+2017,Zambia,33.83,32.32
+2017,Hungary,33.62,32.72
+2017,Russia,33.58,43.85
+2017,Iran,33.53,33.17
+2017,Turkey,33.46,26.45
+2017,Bangladesh,32.71,24.86
+2017,Algeria,32.5,20.12
+2017,Bolivia,32.13,27.97
+2017,Morocco,31.51,23.89
+2017,Montenegro,31.1,35.03
+2017,Bulgaria,30.49,29.56
+2017,Bosnia And Herzegovina,29.76,24.22
+2017,Poland,29.69,31.53
+2017,Uganda,29.41,20.79
+2017,Romania,29.05,30.16
+2017,Colombia,28.76,24.97
+2017,Mexico,28.06,25.8
+2017,Tunisia,27.58,16.95
+2017,Belarus,27.19,37.6
+2017,Armenia,26.83,31.03
+2017,Syria,26.72,22.21
+2017,Nepal,26.38,16.27
+2017,Albania,26.07,25.06
+2017,North Macedonia,25.41,20.74
+2017,India,25.2,16.38
+2017,Serbia,24.96,27.2
+2017,Kazakhstan,24.83,32.04
+2017,Pakistan,24.83,21.01
+2017,Azerbaijan,22.93,29.25
+2017,Georgia,22.26,26.65
+2017,Moldova,21.97,20.32
+2017,Ukraine,19.87,19.69
+2017,Egypt,19.01,18.56
+2016,Bermuda,131.95,121.27
+2016,Switzerland,123.86,119.14
+2016,Bahamas,107.12,88.43
+2016,Kuwait,96.13,46.01
+2016,Norway,93.27,110.77
+2016,Iceland,91.4,98.82
+2016,Hong Kong,88.8,50.73
+2016,Japan,86.9,47.45
+2016,South Korea,86.23,41.18
+2016,Singapore,75.83,53.75
+2016,United States,75.69,69.13
+2016,Australia,74.68,74.85
+2016,Venezuela,73.7,47.09
+2016,New Zealand,72.06,75.37
+2016,France,69.62,73.48
+2016,Denmark,69.2,97.88
+2016,Luxembourg,69.16,90.33
+2016,United Kingdom,68.48,86.68
+2016,Sweden,67.89,79.18
+2016,Belgium,67.15,82.87
+2016,Ireland,66.59,82.3
+2016,Finland,66.59,76.85
+2016,Puerto Rico,65.94,58.71
+2016,Israel,65.71,77.27
+2016,Canada,65.04,60.04
+2016,Taiwan,64.6,25.14
+2016,Austria,61.71,62.64
+2016,Qatar,59.46,69.32
+2016,Ghana,59.32,51.88
+2016,Italy,58.64,75.27
+2016,United Arab Emirates,57.23,59.85
+2016,Costa Rica,56.87,46.54
+2016,Netherlands,56.11,80.73
+2016,Macao,55.85,46.43
+2016,Panama,55.25,40.41
+2016,Jamaica,54.12,38.73
+2016,Trinidad And Tobago,53.8,48.58
+2016,China,53.27,29.28
+2016,Germany,53.12,60.68
+2016,Argentina,52.51,64.19
+2016,Cambodia,52.24,22.56
+2016,Malta,51.89,66.63
+2016,Belize,51.2,38.11
+2016,Brunei,50.61,33.04
+2016,Palestine,49.77,38.04
+2016,Myanmar,49.64,28.36
+2016,Fiji,49.54,34.12
+2016,Lebanon,48.75,59.7
+2016,Uruguay,48.14,52.75
+2016,Cyprus,48,59.72
+2016,Dominican Republic,48,39.33
+2016,Oman,47.08,43.86
+2016,Spain,46.02,56.99
+2016,Zimbabwe,46,45.37
+2016,Greece,44.75,55.07
+2016,Honduras,44.28,33.53
+2016,Bahrain,44.15,48.58
+2016,Mauritius,44.1,37.22
+2016,Thailand,43.8,20.22
+2016,Jordan,43.75,52.38
+2016,Ecuador,43.4,27.95
+2016,Slovenia,42.78,42.78
+2016,Tanzania,42.76,35.74
+2016,Nigeria,42.68,35.78
+2016,Iraq,42.06,45.93
+2016,Saudi Arabia,41.81,30
+2016,Guatemala,41.76,33.02
+2016,Indonesia,40.9,18.41
+2016,Uzbekistan,40.76,29.35
+2016,Croatia,40.68,37.57
+2016,Slovakia,40.59,31.81
+2016,Portugal,40.58,41.56
+2016,Turkey,39.89,31.89
+2016,Libya,39.71,32.17
+2016,Vietnam,39.51,18.24
+2016,Iran,38.6,35.05
+2016,Sri Lanka,38.52,21.15
+2016,Estonia,38.5,44.13
+2016,Chile,38.49,36.25
+2016,Ethiopia,38.42,24.34
+2016,El Salvador,38.38,28.83
+2016,Kenya,37.86,29.11
+2016,Malaysia,37.54,19.85
+2016,Lithuania,37.32,35.42
+2016,Czech Republic,36.51,28.34
+2016,Latvia,36.25,40.45
+2016,Peru,35.46,25.22
+2016,Philippines,34.56,18.59
+2016,Zambia,34.04,31.59
+2016,Mexico,33.71,28.19
+2016,Hungary,33.18,30.75
+2016,Egypt,33.13,31.8
+2016,Namibia,32.66,35.68
+2016,Bangladesh,32.58,21.26
+2016,Belarus,32.44,49.3
+2016,Russia,32.22,42.05
+2016,Montenegro,31.77,35.84
+2016,Morocco,31.74,23.98
+2016,Botswana,31.46,29.96
+2016,Bulgaria,30.9,29.89
+2016,Poland,30.76,31.71
+2016,Bolivia,30.58,24.42
+2016,Algeria,30.5,18.77
+2016,Brazil,29.92,31.55
+2016,Tunisia,29.9,18.34
+2016,Syria,29.84,23.68
+2016,Bosnia And Herzegovina,29.77,24.07
+2016,South Africa,29.15,32.27
+2016,Romania,28.79,29.17
+2016,Armenia,28.3,30.98
+2016,Albania,27.33,27.59
+2016,North Macedonia,26.14,21.17
+2016,Serbia,25.77,25.64
+2016,Pakistan,25.4,20.64
+2016,Nepal,24.99,14.43
+2016,India,24.92,15.31
+2016,Colombia,24.72,20.86
+2016,Georgia,24.61,26.9
+2016,Azerbaijan,24.16,28.41
+2016,Ukraine,22.43,22.75
+2016,Kazakhstan,21.48,27.65
+2016,Moldova,20.38,18.64
+2015,Switzerland,128.44,127.64
+2015,Venezuela,128.43,91.09
+2015,Kuwait,118.45,54.59
+2015,Norway,110.06,141.45
+2015,Iceland,103.76,105.21
+2015,South Korea,98.06,52.51
+2015,Australia,94.31,90.63
+2015,New Zealand,92.51,86.31
+2015,Denmark,88.59,117.53
+2015,Canada,87.41,74.07
+2015,France,85.3,91.06
+2015,Ireland,85.14,91.58
+2015,United Kingdom,84.58,95.97
+2015,Finland,84.3,92.38
+2015,Japan,82.68,50.51
+2015,United States,81.81,68.06
+2015,Singapore,81.52,59.46
+2015,Belgium,79.54,95.93
+2015,Hong Kong,79.46,53.82
+2015,Sweden,78.72,89.99
+2015,Luxembourg,77.1,110.63
+2015,Puerto Rico,76.35,63.6
+2015,Austria,73.56,70.43
+2015,Ghana,73.39,59.13
+2015,Italy,71.43,93.07
+2015,Israel,69.19,85.34
+2015,Cambodia,68.86,26.07
+2015,Netherlands,66.82,102.13
+2015,Taiwan,66.73,27.88
+2015,Cyprus,66.06,75.18
+2015,Qatar,65.4,78.14
+2015,Germany,64.85,72.46
+2015,Costa Rica,64.35,52.84
+2015,Belize,63.91,42.52
+2015,Argentina,61.47,64.4
+2015,Panama,61.03,40.39
+2015,Uruguay,60.62,64.57
+2015,United Arab Emirates,60.3,63.67
+2015,Trinidad And Tobago,60.07,51.01
+2015,Zimbabwe,59.42,54.33
+2015,Jamaica,59.42,44.12
+2015,Myanmar,59.38,26.39
+2015,Tanzania,58.21,39.01
+2015,Greece,58.2,70.03
+2015,Malta,58.1,75.93
+2015,Libya,58.09,47.66
+2015,Slovenia,55.58,54.03
+2015,Bahrain,55.32,54.19
+2015,Dominican Republic,55.21,44.16
+2015,Spain,54.17,71.09
+2015,Nigeria,54.04,49.6
+2015,Thailand,52.74,24.72
+2015,Mozambique,52.71,71.25
+2015,Croatia,52.32,46.36
+2015,Lebanon,51.59,67.43
+2015,Guatemala,51.53,35.75
+2015,Mauritius,51.27,52.3
+2015,Jordan,50.86,58.59
+2015,Sri Lanka,50.79,22.81
+2015,Kenya,50.55,34.83
+2015,Ethiopia,50.27,24.76
+2015,Azerbaijan,50.22,64.69
+2015,China,50.18,36.52
+2015,Uzbekistan,49.89,43.13
+2015,Russia,49.88,71.8
+2015,Uganda,49.84,26.6
+2015,Honduras,49.71,33.92
+2015,Estonia,48.98,51.51
+2015,Palestine,48.5,35.97
+2015,Chile,47.77,44.59
+2015,Peru,47.65,34.29
+2015,Portugal,47.4,51.07
+2015,Oman,47.38,44.45
+2015,Slovakia,46.94,38.13
+2015,Saudi Arabia,46.91,34.83
+2015,Namibia,46.69,51.35
+2015,Ecuador,46.26,29.26
+2015,Iran,45.98,40.07
+2015,Malaysia,45.88,25.44
+2015,Belarus,45.38,57.88
+2015,Latvia,44.79,47.18
+2015,Lithuania,44.55,37.53
+2015,El Salvador,44.45,36.33
+2015,Kazakhstan,44.37,58.98
+2015,Brazil,44.31,45.44
+2015,Indonesia,44.12,21.91
+2015,Czech Republic,43.78,33.04
+2015,Nicaragua,43.27,28.34
+2015,Mexico,42.35,33.27
+2015,Iraq,41.85,43.29
+2015,Philippines,41.14,23.13
+2015,South Africa,40.41,41.52
+2015,Montenegro,40.34,41.46
+2015,Bangladesh,40.11,25.52
+2015,Turkey,39.94,38.74
+2015,Vietnam,39.42,22.69
+2015,Hungary,39.3,37.78
+2015,Bulgaria,38.5,33.81
+2015,Bosnia And Herzegovina,37.52,29.14
+2015,Romania,37.43,35.06
+2015,Poland,36.5,38.77
+2015,Colombia,36.21,29.61
+2015,Ukraine,35.53,38.18
+2015,Syria,35.37,31.25
+2015,Egypt,35.09,32.04
+2015,Serbia,35,37.2
+2015,Morocco,34.82,32.35
+2015,Albania,34.1,33.21
+2015,Bolivia,33.95,26.01
+2015,Algeria,33.95,26.96
+2015,Armenia,33.2,32.71
+2015,North Macedonia,31.99,28.48
+2015,Tunisia,31.97,23.26
+2015,Georgia,31.82,37.93
+2015,Kosovo (Disputed Territory),30.52,29.75
+2015,Pakistan,30.38,23.5
+2015,Moldova,29.75,28.38
+2015,India,28.52,15.94
+2015,Nepal,27.8,18.66
+2014,Switzerland,148.5,145.59
+2014,Norway,135.52,165.88
+2014,Venezuela,132.15,96.24
+2014,Iceland,121.07,106.06
+2014,South Korea,106.5,51.76
+2014,Australia,105.03,97.44
+2014,New Zealand,104.47,90.09
+2014,Ireland,102.67,100.03
+2014,Denmark,102.61,132.27
+2014,Finland,100.4,103.17
+2014,Sweden,100.35,103.76
+2014,France,100.19,98.7
+2014,Bahamas,98,96.49
+2014,Japan,97.55,58.78
+2014,Luxembourg,97.07,126.51
+2014,Canada,94.57,78.78
+2014,United Kingdom,94.25,96.94
+2014,Belgium,93.51,105.82
+2014,Singapore,89.77,61.36
+2014,Austria,88.71,79.25
+2014,Italy,85,104.62
+2014,United States,83.38,67.74
+2014,Cyprus,82.44,94.53
+2014,Hong Kong,82.08,51.77
+2014,Puerto Rico,80.04,64.43
+2014,Israel,79.52,95.42
+2014,Netherlands,78.03,115.25
+2014,Germany,77.86,77.83
+2014,Kuwait,77.58,55.89
+2014,Nigeria,74.97,62.7
+2014,Taiwan,74.03,29.47
+2014,Jamaica,71.51,54.35
+2014,Greece,70.51,84.76
+2014,Ghana,70.5,57.75
+2014,Qatar,70.26,78.36
+2014,Saudi Arabia,69.59,34.87
+2014,Costa Rica,69.43,55.53
+2014,Malta,68.9,79.1
+2014,Uruguay,68.66,71.63
+2014,Zimbabwe,66.92,53.92
+2014,Slovenia,65.19,61.44
+2014,Cambodia,64.26,25.11
+2014,Spain,64.24,79.05
+2014,Argentina,63.23,64.18
+2014,Croatia,62.68,54.75
+2014,United Arab Emirates,61.67,65.23
+2014,Libya,61.34,42.83
+2014,Panama,59.81,40.36
+2014,Kenya,59.5,34.21
+2014,Dominican Republic,59.04,40.89
+2014,Estonia,58.64,54.83
+2014,Bahrain,57.64,56.24
+2014,Trinidad And Tobago,57.57,49.33
+2014,Portugal,57.37,58.18
+2014,China,57.06,37.77
+2014,Ethiopia,55.43,28.24
+2014,Slovakia,55.26,43.16
+2014,Uganda,55.21,27.1
+2014,Lebanon,54.56,67.5
+2014,Azerbaijan,54.46,65.44
+2014,Latvia,54.34,53.87
+2014,Chile,54.27,49.97
+2014,Guatemala,54.22,33.33
+2014,Jordan,53.7,54.47
+2014,Kazakhstan,53.48,64.09
+2014,Oman,53.47,40.73
+2014,Thailand,52.92,23.81
+2014,Lithuania,52.84,41.88
+2014,Mauritius,52.78,58.02
+2014,Namibia,52.7,47.8
+2014,Iran,52.6,41.46
+2014,Tanzania,52.28,27.12
+2014,Sri Lanka,52.24,24.97
+2014,Czech Republic,51.01,37.26
+2014,Russia,50.91,68.48
+2014,El Salvador,50.59,35.91
+2014,Montenegro,49.88,50.12
+2014,Brazil,49.34,47.55
+2014,Mexico,48.99,35.39
+2014,Hungary,48.1,43.63
+2014,Colombia,47.72,34.83
+2014,Malaysia,47.62,26.62
+2014,Peru,47.45,36.13
+2014,Ecuador,47.41,27.71
+2014,Belarus,46.15,55.79
+2014,Iraq,45.84,46.2
+2014,Bulgaria,45.32,38.02
+2014,Bosnia And Herzegovina,45.31,33.65
+2014,Poland,45.19,44.19
+2014,Indonesia,44.21,20.9
+2014,Romania,43.87,37.19
+2014,Honduras,42.94,33.62
+2014,Serbia,42.7,42.67
+2014,Philippines,42.43,23.22
+2014,South Africa,42.32,43.73
+2014,Morocco,41.71,38.63
+2014,Albania,41.37,35.25
+2014,Bangladesh,41.26,25.98
+2014,Vietnam,41.09,23.26
+2014,Ukraine,40.81,40.21
+2014,Turkey,40.56,37.53
+2014,Algeria,40.11,27.48
+2014,Syria,38.64,35.52
+2014,Tunisia,38.36,28.73
+2014,North Macedonia,37.68,32.44
+2014,Egypt,37.06,32.75
+2014,Georgia,37,41.36
+2014,Bolivia,36.85,24.62
+2014,Armenia,36.75,41.14
+2014,Moldova,35.87,31.08
+2014,Nepal,30.47,19.82
+2014,Pakistan,29.22,22.32
+2014,India,29.22,16.02
+2013,Bahrain,162.91,71.01
+2013,Norway,162.53,183.3
+2013,Switzerland,153.05,142.36
+2013,Australia,128.69,116.39
+2013,Venezuela,126.37,93.65
+2013,Iceland,118.81,99.72
+2013,Japan,112.83,70.01
+2013,Luxembourg,111.78,130.8
+2013,New Zealand,111.68,93.48
+2013,Sweden,105.57,110.14
+2013,Ireland,105.55,102.99
+2013,Denmark,103.97,130.5
+2013,Finland,101.29,100.24
+2013,Canada,101.24,85.58
+2013,France,97.75,100.45
+2013,South Korea,94.12,46.5
+2013,United Kingdom,93.06,94.28
+2013,Nigeria,92.93,62.45
+2013,Austria,92.75,81.43
+2013,Singapore,91.19,63.28
+2013,Belgium,90.14,115.6
+2013,Cyprus,89.35,101.17
+2013,Italy,87.31,107.38
+2013,Puerto Rico,83.45,65.03
+2013,Netherlands,81.11,107.68
+2013,Germany,80.74,79.68
+2013,United States,80.74,67.87
+2013,Taiwan,79.96,31.75
+2013,Hong Kong,79.82,54.48
+2013,Kuwait,78.99,78.65
+2013,Israel,76.92,90.09
+2013,Qatar,75,78.79
+2013,Greece,74.67,95.52
+2013,Saudi Arabia,74.47,36.51
+2013,Malta,73.68,77.57
+2013,Costa Rica,71.79,54.7
+2013,Uruguay,70.53,75.66
+2013,Slovenia,70.49,63.24
+2013,Azerbaijan,67.88,64.83
+2013,Spain,66.55,80.97
+2013,China,66.43,36.53
+2013,Dominican Republic,66.12,41.54
+2013,United Arab Emirates,64.99,69.9
+2013,Argentina,64.52,65.43
+2013,Croatia,64.47,55.98
+2013,Cambodia,64.35,24.45
+2013,Ethiopia,62.51,26.1
+2013,Portugal,61.25,59.09
+2013,Kenya,60.96,33.82
+2013,Estonia,60.94,53.36
+2013,Iran,59.28,42.76
+2013,Tanzania,59.2,24.94
+2013,Panama,58.83,36.26
+2013,Chile,58.15,56.28
+2013,Lebanon,58.06,65.2
+2013,Thailand,57.93,25.48
+2013,Russia,56.88,73.64
+2013,Jordan,56.78,56.37
+2013,Slovakia,56.16,44.54
+2013,Montenegro,56.02,55.2
+2013,Trinidad And Tobago,55.8,48.42
+2013,Latvia,55.36,58.45
+2013,Lithuania,55.36,41.98
+2013,Sri Lanka,55,29.73
+2013,Czech Republic,54.69,40.61
+2013,Brazil,53.97,51.81
+2013,South Africa,52.86,49.76
+2013,Colombia,52.83,38.31
+2013,Mexico,52.48,37.4
+2013,Malaysia,51.46,27.37
+2013,Oman,51.37,39.81
+2013,Kazakhstan,51.34,67.36
+2013,Philippines,51.23,26.89
+2013,Indonesia,51,23.71
+2013,Iraq,50.89,46.23
+2013,Hungary,50.87,47.33
+2013,Turkey,50.04,46.33
+2013,Ecuador,48.18,26.45
+2013,Bosnia And Herzegovina,47.43,38.07
+2013,Romania,47.31,37.2
+2013,Bulgaria,46.89,38.82
+2013,Poland,46.58,43.08
+2013,Georgia,45.54,47.48
+2013,Morocco,44.71,42.31
+2013,Tunisia,44.39,36.83
+2013,Algeria,43.76,24.84
+2013,Serbia,43.53,42.78
+2013,Mauritius,43.46,53.48
+2013,Peru,42.62,31.18
+2013,Belarus,41.89,58.09
+2013,Vietnam,41.77,23.74
+2013,Ukraine,41.48,43.47
+2013,Egypt,40.33,37.18
+2013,Albania,40.23,31.83
+2013,Bangladesh,38.51,26.43
+2013,North Macedonia,38.44,33.22
+2013,Moldova,38.28,37.97
+2013,Nepal,36.73,26.19
+2013,Syria,36.7,40.65
+2013,Bolivia,36.42,21.48
+2013,India,32.51,18.09
+2013,Pakistan,32.09,25.34
+2012,Bahrain,150.55,#REF!
+2012,Norway,142.37,#REF!
+2012,Saudi Arabia,135.45,#REF!
+2012,Switzerland,130.55,#REF!
+2012,Japan,117.97,#REF!
+2012,Australia,113.72,#REF!
+2012,Iceland,97.74,#REF!
+2012,Ireland,97.13,#REF!
+2012,New Zealand,95.6,#REF!
+2012,Denmark,94.09,#REF!
+2012,Canada,93.84,#REF!
+2012,Monaco,89.8,#REF!
+2012,Belgium,86.01,#REF!
+2012,Sweden,85.33,#REF!
+2012,Austria,85.06,#REF!
+2012,United Kingdom,83.74,#REF!
+2012,France,82.96,#REF!
+2012,Singapore,82.76,#REF!
+2012,Finland,82.32,#REF!
+2012,Puerto Rico,81.85,#REF!
+2012,Qatar,81.63,#REF!
+2012,Hong Kong,80.47,#REF!
+2012,United States,77.65,#REF!
+2012,Israel,77.35,#REF!
+2012,Italy,75.97,#REF!
+2012,Taiwan,75.33,#REF!
+2012,Cyprus,74.6,#REF!
+2012,Kuwait,73.52,#REF!
+2012,Germany,72.15,#REF!
+2012,Malta,70.81,#REF!
+2012,South Korea,70.68,#REF!
+2012,Greece,69.83,#REF!
+2012,Netherlands,69.58,#REF!
+2012,Costa Rica,66.98,#REF!
+2012,United Arab Emirates,66.19,#REF!
+2012,Uruguay,65.96,#REF!
+2012,Thailand,65.47,#REF!
+2012,Slovenia,64.7,#REF!
+2012,Morocco,61.43,#REF!
+2012,South Africa,59.67,#REF!
+2012,Spain,59.01,#REF!
+2012,Mongolia,57.94,#REF!
+2012,Indonesia,57.94,#REF!
+2012,Brazil,57.83,#REF!
+2012,Portugal,56.17,#REF!
+2012,Croatia,56.05,#REF!
+2012,Jordan,54.93,#REF!
+2012,Chile,54.24,#REF!
+2012,Iran,53.92,#REF!
+2012,China,53.68,#REF!
+2012,Malaysia,53.65,#REF!
+2012,Azerbaijan,53.2,#REF!
+2012,Lithuania,53.02,#REF!
+2012,Argentina,52.4,#REF!
+2012,Latvia,51.28,#REF!
+2012,Estonia,51.28,#REF!
+2012,Colombia,50.17,#REF!
+2012,Russia,49.67,#REF!
+2012,Kazakhstan,49.59,#REF!
+2012,Slovakia,49.21,#REF!
+2012,Montenegro,49.11,#REF!
+2012,Czech Republic,49.01,#REF!
+2012,Panama,48.86,#REF!
+2012,Mexico,48.45,#REF!
+2012,Nicaragua,47.52,#REF!
+2012,Turkey,47.31,#REF!
+2012,Ecuador,46.59,#REF!
+2012,Tunisia,45.71,#REF!
+2012,Vietnam,45.31,#REF!
+2012,Lebanon,45.3,#REF!
+2012,Hungary,44.64,#REF!
+2012,Algeria,43.59,#REF!
+2012,Egypt,43.42,#REF!
+2012,Philippines,43.13,#REF!
+2012,Bulgaria,42.02,#REF!
+2012,Peru,41.93,#REF!
+2012,Bosnia And Herzegovina,41.08,#REF!
+2012,Georgia,40.93,#REF!
+2012,Romania,39.81,#REF!
+2012,Poland,39.45,#REF!
+2012,Moldova,38.59,#REF!
+2012,Ukraine,38.39,#REF!
+2012,Armenia,38.38,#REF!
+2012,Syria,37.66,#REF!
+2012,Serbia,36.47,#REF!
+2012,Nepal,36.11,#REF!
+2012,Belarus,33.84,#REF!
+2012,India,33.82,#REF!
+2012,North Macedonia,33.64,#REF!
+2012,Pakistan,31.52,#REF!
